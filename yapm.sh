@@ -32,7 +32,7 @@ help_menu()
 about()
 {
         msg=$(awk 'NR==3,/^\s*$/' $0 | sed 's/#//; $d') # Displays the above comments as info
-        dialog --title "About" --msgbox "$msg" 40 80
+        dialog --title "About" --msgbox "$msg" 15 80
 }
 
 init()
