@@ -1,11 +1,11 @@
 # Yet another password manager
 
-simple posix shell password manager script that uses dmenu or rofi for selecting a password.
+A simple posix shell password manager script that uses dmenu or rofi for selecting a password.
 
 
-## Usage
+## Usage:
 
-### setup the global key (passowrd)
+### Setup the global key (passowrd)
 ```bash
 ./yapm --setup
 ```
