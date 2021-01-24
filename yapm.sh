@@ -1,7 +1,9 @@
 #!/bin/sh
 
 # About : Password Manager
-# 
+# Author: MinaSaad47
+# Git: https://github.com/MinaSaad47/
+#
 # Disclamer!: 
 # This is not well written shell script (as I hate writing one -_-).
 # This is not convenient way to save your passwords
