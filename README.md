@@ -1,6 +1,6 @@
 # Yet another password manager
 
-simple posix shell password manager script that uses demu or rofi for selecting a password.
+simple posix shell password manager script that uses dmenu or rofi for selecting a password.
 
 
 ## Usage
